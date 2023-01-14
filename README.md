@@ -1,5 +1,5 @@
 # searchScript
-zsh script to do a google or duck duck go search in terminal
+zsh script to do a google or duck duck go search through terminal
 
 ## Index
 - [Usage](#Usage)
