@@ -1,17 +1,22 @@
 # searchScript
 zsh script to do a google or duck duck go search in terminal
 
-# Usage
+## Index
+- [Usage](Usage)
+- [Installation](Installation)
+
+## Usage
 To perform a google search
 ```zsh
 google your query here
 ```
 To perform a search in duck duck go
-```sh
+```zsh
 ddg your query here
 ```
 
-# Installation
-```sh
+## Installation
+Download the searchScript.zsh and run the command
+```zsh
 source path/to/searchScript.zsh >> .zshrc
 ```
