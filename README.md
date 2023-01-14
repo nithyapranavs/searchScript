@@ -2,8 +2,8 @@
 zsh script to do a google or duck duck go search in terminal
 
 ## Index
-- [Usage](Usage)
-- [Installation](Installation)
+- [Usage](#Usage)
+- [Installation](#Installation)
 
 ## Usage
 To perform a google search
