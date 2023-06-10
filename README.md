@@ -18,5 +18,5 @@ ddg your query here
 ## Installation
 Download the searchScript.zsh and run the command
 ```zsh
-source path/to/searchScript.zsh >> .zshrc
+echo "source path/to/searchScript.zsh" >> .zshrc
 ```
